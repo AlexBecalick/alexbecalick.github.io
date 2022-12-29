@@ -4,7 +4,7 @@ venv/
 __pycache__/
 source/__pycache__/
 .xml
-.tsv
+*.tsv
 
 # hide the user name/passwd from tracking
 credentials.py

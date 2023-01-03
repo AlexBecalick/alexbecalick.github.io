@@ -1,6 +1,6 @@
 # Visage
 
-BRYC65.1d ROI1 and 5, cell types (top) and genes (bottom). [Interactive viewer](alexbecalick.github.io)
+BRYC65.1d ROI1 and 5, cell types (top) and genes (bottom). [Interactive viewer](https://alexbecalick.github.io)
 
 <p align="center">
     <img src="viewer/assets/BRYC65.1d_ROI1.png" alt="Brain images"/>

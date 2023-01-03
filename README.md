@@ -1,4 +1,12 @@
 # Visage
+
+BRYC65.1d ROI1 and 5, cell types (top) and genes (bottom). [Interactive viewer](alexbecalick.github.io)
+
+<p align="center">
+    <img src="viewer/assets/BRYC65.1d_ROI1.png" alt="Brain images"/>
+</p>
+
+
 An interactive web-based viewer to visualise 2D spatial transcriptomics data. A demo using 
 CA1 data from [Qian, X., et al. Nature Methods (2020)](https://www.nature.com/articles/s41592-019-0631-4) runs
  [here](https://acycliq.github.io/visage/)
